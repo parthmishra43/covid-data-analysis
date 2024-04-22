@@ -1,1 +1,1 @@
-# covid-data-analysis
+Code performs exploratory data analysis (EDA) on a dataset containing COVID-19 statistics. It begins by displaying the first few rows of the dataset and listing its keys to understand its structure. Then, it checks the length of the data related to the 'Country/Region' column.
